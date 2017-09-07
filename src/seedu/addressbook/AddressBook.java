@@ -243,7 +243,7 @@ public class AddressBook {
      */
 
     /**
-     * Echoes the user input back to the user.
+     * Echoes the user input back to the USER.
      */
     private static void echoUserCommand(String userCommand) {
         showToUser("[Command entered:" + userCommand + "]");
